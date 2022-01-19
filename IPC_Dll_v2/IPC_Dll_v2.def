@@ -1,0 +1,6 @@
+LIBRARY IPC_Dll_v2
+EXPORTS
+InitDeviceforIPC @1
+SendIPCMsg @2
+RecvIPCMsg @3
+CloseDeviceforIPC @4
